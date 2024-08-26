@@ -33,9 +33,9 @@ This repository follows the following conventions.
 | 💡   | :bulb                      | Add/modify comments               |
 | 🗃    | :card_file_box             | Database-related changes          |
 
-1. Fork 한 레포에서 작업 진행
-2. 각자 feature 브랜치에서 작업 진행
-3. 작업 완료 후 원본 레포의 develop 브랜치로 PR 요청
-    - PR 요청 시, 위의 PR Convention을 참고하여 작성
-4. 코드 리뷰 후 merge
-5. 다른 사람이 merge한 코드가 있으면 pull 받아서 작업 시작 전 develop 브랜치로 merge
+1. `Fork` 한 레포에서 작업 진행
+2. 각자 `feature` 브랜치에서 작업 진행
+3. 작업 완료 후 원본 레포의 `develop` 브랜치로 PR 요청
+    - PR 요청 시, 위의 `PR Convention`을 참고하여 작성
+4. 코드 리뷰 후 `merge`
+5. 다른 사람이 `merge`한 코드가 있으면 `pull` 받아서 작업 시작 전 `develop` 브랜치로 merge
